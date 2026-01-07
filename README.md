@@ -53,6 +53,9 @@ Designed for **top-level management** to get a quick snapshot of business perfor
 ---
 
 ### 🔹 Page 2: Detailed Insights & Analysis
+
+![Detailed Insights](Screenshots/Page2_Insights.png)
+
 Designed for **business analysts and operations teams** for deeper insights.
 
 **Key Visuals:**

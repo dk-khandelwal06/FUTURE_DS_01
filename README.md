@@ -2,11 +2,6 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Domain](https://img.shields.io/badge/Domain-Data%20Science%20%26%20Analytics-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Internship](https://img.shields.io/badge/Internship-Future%20Interns-purple)
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Analytics](https://img.shields.io/badge/Field-Data%20Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![Internship](https://img.shields.io/badge/Internship-Future%20Interns-purple)
 

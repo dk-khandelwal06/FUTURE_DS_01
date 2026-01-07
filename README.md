@@ -102,11 +102,11 @@ AOV = DIVIDE([Total Revenue], [Total Orders])
 ```
 FUTURE_DS_01/
 │
-├── Dataset/
-│   └── FUTURE_DS_01_Dataset.csv
-│
 ├── Dashboard/
 │   └── Sales_Dashboard.pbix
+│
+├── Dataset/
+│   └── FUTURE_DS_01_Dataset.csv
 │
 ├── Screenshots/
 │   ├── Page1_Overview.png

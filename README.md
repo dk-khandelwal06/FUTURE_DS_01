@@ -32,6 +32,9 @@ The dashboard answers the following key business questions:
 ## 📄 Dashboard Pages Overview
 
 ### 🔹 Page 1: Executive Sales Overview
+
+![Executive Overview](Screenshots/Page1_Overview.png)
+
 Designed for **top-level management** to get a quick snapshot of business performance.
 
 **Key Visuals & KPIs:**

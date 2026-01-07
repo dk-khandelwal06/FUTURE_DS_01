@@ -149,3 +149,10 @@ The dashboard is suitable for **real-world business decision-making** and reflec
 
 This project was completed as part of the
 Future Interns – Data Science & Analytics Internship Program.
+
+---
+
+## 👤 Author
+
+**Daksh Khandelwal**
+Data Science & Analytics Intern – Future Interns

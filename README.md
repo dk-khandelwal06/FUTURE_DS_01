@@ -80,6 +80,8 @@ Net Profit = SUM(Sales[Profit])
 Units Sold = SUM(Sales[Quantity])
 
 AOV = DIVIDE([Total Revenue], [Total Orders])
+```DAX
+
 
 ---
 

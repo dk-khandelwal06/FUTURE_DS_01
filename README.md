@@ -99,6 +99,7 @@ AOV = DIVIDE([Total Revenue], [Total Orders])
 
 ## 📁 Repository Structure
 
+```
 FUTURE_DS_01/
 │
 ├── Dataset/
@@ -112,6 +113,7 @@ FUTURE_DS_01/
 │   └── Page2_Insights.png
 │
 └── README.md
+```
 
 ---
 
